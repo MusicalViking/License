@@ -9,7 +9,7 @@
 
 ## 🪖 Code Warrior. Veteran. Builder of Second Chances.
 
-I served with the 5th Special Forces Group from 2001–2003(Army 1999-2003) — boots on the ground.
+I served from 2001–2003(Army 1999-2003).
 Came home broken, lost a friend, nearly lost myself. Then I found purpose in code.
 
 **No handouts. No shortcuts. One mission: Build tools that matter.**
@@ -29,7 +29,7 @@ Came home broken, lost a friend, nearly lost myself. Then I found purpose in cod
 
 ## 🧠 From the Inside Out
 
-> In 2023, after 20-years into a prison sentence with zero tech background.
+> In 2023, with zero tech background.
 > No laptop experience. No GitHub. No roadmap. Just fire.
 
 - Everything started for me from joining a basic web design course through Brave Behind Bars while in prison.
@@ -70,7 +70,7 @@ Came home broken, lost a friend, nearly lost myself. Then I found purpose in cod
 
 ---
 
-### 🏙 Augusta Downtown Alliance *(in progress)*
+### 🏙 Augusta Downtown Alliance
 
 > Rebuilding local pride with real code.
 
@@ -83,7 +83,7 @@ Came home broken, lost a friend, nearly lost myself. Then I found purpose in cod
 
 ## 🧑‍🏫 Teaching & Outreach
 
-- **TA @ MIT’s Brave Behind Bars** — Flask & HTML inside federal prisons
+- **TA @ MIT’s Brave Behind Bars** — Flask & HTML inside prisons
 - **TA @ Code Your Dreams** — mentoring new devs starting at rock bottom...literally.
 
 > *Because real dev skills change lives — even behind bars.*
